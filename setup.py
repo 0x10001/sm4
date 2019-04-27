@@ -4,7 +4,7 @@
 import sys
 from setuptools import setup
 
-version = "1.0.0"
+version = "1.0.1"
 
 description = (
     "A pure Python implementation for the SM4 algorithm"
